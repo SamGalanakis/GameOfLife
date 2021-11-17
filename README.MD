@@ -5,7 +5,7 @@
 
 [Example_1](https://youtu.be/UOxtpOc5N9o) [Example_2](https://youtu.be/o1gV6niI8kY) 
 
-## Start simulation and save imags to boards/
+## Start simulation and save images to boards/
 
 ```
 python game_of_life.py --board_width 192 --board_height 108 --scale_factor 10 --n_frames 1000 --seed 0
